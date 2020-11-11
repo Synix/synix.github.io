@@ -2,38 +2,6 @@
 
 测试一下App Link: [My Link](https://synix.github.io/openfile)
 
-You can use the [editor on GitHub](https://github.com/trungnn307/trungnn307.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+测试一下Deep Link: [HTTP](xmind://xmind.works/openFile?url=http%3A%2F%2Fsynix.github.io%2Fassets%2Fone%2520test.xmind&name=name1.xmind)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trungnn307/trungnn307.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+测试一下Deep Link: [HTTPS](xmind://xmind.works/openFile?url=https%3A%2F%2Fxmindshare.s3.amazonaws.com%2Fmap%2Fmay-fair-2011-5-yqxgdfae-1303329921570.xmind%3FAWSAccessKeyId%3DASIAVEZSGHEFQFSFC2WX%26Expires%3D1605063168%26Signature%3Do3X3X7xjHP60jUhxQTlALT0K%252FY4%253D%26x-amz-security-token%3DIQoJb3JpZ2luX2VjEBsaCXVzLWVhc3QtMSJGMEQCIAamJ9OOCPEDKpk7%252BYRwTwWvbr5Px%252FJ9wEupRVfXbwqUAiBeuOd5NXExh9%252FS4F6zC1Gv%252FbuTiCFTsB6UROXvALfh4SqwAwiE%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F8BEAAaDDM1MzkwMzE5NjQyNyIMRsymDqDaXo8sOuoIKoQD2xwpxg2jFA%252FctUPHM2IiwUcC8Nb2C0tqMuxAcVPxGwHo9AR4pPfNm1FKA8T0uGvIJnkVAjasyWwajnUsJTElt938VHxBhoCNhsid%252BMKUbD2h7Nx%252BxeiHR4njlQUisH3Ekl7N8iVHISekBdL6vb4TeKb6bfVAlpmrJYuaDzQBClwn1JMk99TtObkqHZIxMo%252BnzT1%252BkrHgsljC%252FbIjBEw4gil12dStAiNnf9TGY%252Bp1e1UyK95x112wSR4NIgUrBDAZinap9gj9LAqiGILdw0i10dmJ9sA%252BQ66TjFIX7oOReFiWWH016F66esczm7QVDUrwdySuPBILYpPLpin0QO8uxU7d8Q0QeJ8D9BHY%252FMCnh%252BH%252BDj645HP2Krdq1zeEweYVFZKPX3%252FmwzqjQDxHebkNX0JHLybcRbjc22GjnvqLyxo%252FBfSejlouyYVTxFY94SGAncpg3xCttOXUVeYJqZk3OSN9GTellAZaM%252BoJS3fm64dGf56Q%252BjW7rIXdPtCT4BLGoTTYxDDClq39BTrsAbSt2YUewhsE8kD9N8psuVgCR4FgNWnHP8DCit5Lc95zHpG%252BD5kxQchZZ2o1EBCkP309Gqlmvi2LeT21Yokvc%252FaLKISH11JJSS4q3%252FutC7PASuypRNK523IghJs6tHLzzQH4ZopnKAyYkQi%252Fild%252BJeicdqLpAy9MkWYgyHDF2Cn1R3Cu1MxDfP%252F44WKm3s9Zsdax6FBBolCuT0N2g1J8kUWX%252BINdDQIYOqIWzCOavo4XFW7G3DlgolKZQEcmjDRdy2vBECkqsL8iL2%252B7p6hcyoq0ZPbQRLTgjekcuOGX5RiPTHZWuq5MFw0dAYXv&name=name2.xmind)
