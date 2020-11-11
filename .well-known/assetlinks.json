@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.synix.applinkdemo",
+    "sha256_cert_fingerprints":
+    ["89:C3:90:04:E1:51:B5:CE:CB:25:86:1B:AC:11:B1:E5:EC:76:38:43:11:AA:ED:D3:F1:F8:2B:DD:23:12:26:77"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://synix.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.synix.applinkdemo",
+    "sha256_cert_fingerprints":
+    ["89:C3:90:04:E1:51:B5:CE:CB:25:86:1B:AC:11:B1:E5:EC:76:38:43:11:AA:ED:D3:F1:F8:2B:DD:23:12:26:77"]
+  }
+}]
